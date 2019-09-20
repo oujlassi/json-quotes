@@ -1,4 +1,6 @@
-{ "quotesStore": [
+{ 
+   "quotesStore": [
+        
     {"author" : "Muhammed Ali Clay", 
      "quotes" : ["Don't count the days; make the days count.",
                  "If my mind can conceive it, and my heart can believe it—then I can achieve it.",
@@ -12,11 +14,13 @@
     {"author": "Albert Einstein", 
      "quotes": ["Any fool can know. The point is to understand",
                 "Imagination is the highest form of research",
-                "A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness"]},
+                "A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness"]
+    },
     {"author": "Antoine de Saint-Exupéry", 
      "quotes": ["If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.",
                 "Love does not consist in gazing at each other, but in looking outward together in the same direction.",
-                "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."]}
+                "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."]
+    }
   
   ]
 }
