@@ -5,12 +5,18 @@
                  "I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life as a champion."]
     },
     {"author": "Richard Feynman", 
-     "quotes": ["",
-                "",
-                ""]
+     "quotes": ["Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.",
+                "Physics is like sex: sure, it may give some practical results, but that's not why we do it.",
+                "You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing."]
     },
-    {"author": "Albert Einstein", "quotes": ["","",""]},
-    {"author": "Antoine de Saint-Exupéry", "quotes": ["","",""]}
+    {"author": "Albert Einstein", 
+     "quotes": ["Any fool can know. The point is to understand",
+                "Imagination is the highest form of research",
+                "A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness"]},
+    {"author": "Antoine de Saint-Exupéry", 
+     "quotes": ["If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.",
+                "Love does not consist in gazing at each other, but in looking outward together in the same direction.",
+                "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."]}
   
   ]
 }
