@@ -1,10 +1,8 @@
-{
-	"quotesStore": [
-    
+{ "quotesStore": "[
     {"author": "Muhammed Ali Clay", "quotes" : "["","",""]"},
     {"author": "Richard Feynman", "quotes": "["","",""]"},
     {"author": "Albert Einstein", "quotes": "["","",""]"},
     {"author": "Antoine de Saint-Exupéry", "quotes": "["","",""]"}
   
-  ]
+  ]"
 }
