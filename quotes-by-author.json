@@ -1,8 +1,16 @@
-{ "quotesStore": "[
-    {"author": "Muhammed Ali Clay", "quotes" : "["","",""]"},
-    {"author": "Richard Feynman", "quotes": "["","",""]"},
-    {"author": "Albert Einstein", "quotes": "["","",""]"},
-    {"author": "Antoine de Saint-Exupéry", "quotes": "["","",""]"}
+{ "quotesStore": [
+    {"author" : "Muhammed Ali Clay", 
+     "quotes" : ["Don't count the days; make the days count.",
+                 "If my mind can conceive it, and my heart can believe it—then I can achieve it.",
+                 "I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life as a champion."]
+    },
+    {"author": "Richard Feynman", 
+     "quotes": ["",
+                "",
+                ""]
+    },
+    {"author": "Albert Einstein", "quotes": ["","",""]},
+    {"author": "Antoine de Saint-Exupéry", "quotes": ["","",""]}
   
-  ]"
+  ]
 }
