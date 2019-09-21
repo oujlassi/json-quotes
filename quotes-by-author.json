@@ -2,7 +2,7 @@
    "quotesStore": [
         
     {"author" : "Muhammed Ali Clay", 
-     "quotes" : ["Don't count the days; make the days count.",
+     "quotes" : ["Don't count the days, make the days count.",
                  "If my mind can conceive it, and my heart can believe it—then I can achieve it.",
                  "I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life as a champion.",
                  "It isn’t the mountains ahead to climb that wear you out; it’s the pebble in your shoe.",
@@ -21,9 +21,9 @@
                 "The truth always turns out to be simpler than you thought."]
     },
     {"author": "Albert Einstein", 
-     "quotes": ["Any fool can know. The point is to understand",
-                "Imagination is the highest form of research",
-                "A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness",
+     "quotes": ["Any fool can know. The point is to understand.",
+                "Imagination is the highest form of research.",
+                "A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness.",
                 "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."]
     },
     {"author": "Antoine de Saint-Exupéry", 
@@ -31,10 +31,14 @@
                 "Love does not consist in gazing at each other, but in looking outward together in the same direction.",
                 "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."]
     },
-    {"author": " Elbert Hubbard",
+    {"author": "Elbert Hubbard",
      "quotes": ["A friend is someone who knows all about you and still loves you.",
-                "The highest reward that God gives us for good work is the ability to do better work",
-                "The highest reward that God gives us for good work is the ability to do better work"]
+                "The highest reward that God gives us for good work is the ability to do better work.",
+                "Never explain―your friends do not need it and your enemies will not believe you anyway.",
+                "The greatest mistake you can make in life is to be continually fearing you will make one.",
+                "It does not take much strength to do things, but it requires a great deal of strength to decide what to do.",
+                "The object of teaching a child is to enable him to get along without a teacher.",
+                "The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it."]
     }
   
   ]
